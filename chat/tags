@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/machida/go_webapp/chat/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210328.0/
+ServeHTTP	main.go	/^func (t *templateHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {$/;"	f	struct:main.templateHandler
+filename	main.go	/^  filename string$/;"	m	struct:main.templateHandler	typeref:typename:string
+main	main.go	/^ package main$/;"	p
+main	main.go	/^func main() {$/;"	f	package:main
+once	main.go	/^  once sync.Once$/;"	m	struct:main.templateHandler	typeref:typename:sync.Once
+templ	main.go	/^  templ *template.Template$/;"	m	struct:main.templateHandler	typeref:typename:*template.Template
+templateHandler	main.go	/^type templateHandler struct {$/;"	s	package:main
